@@ -1,0 +1,2 @@
+# bitCNY
+Featured Markets  BTS 12.020 open.BTC 11.09%  open.MKR 0.000 open.BTC 0.00%  open.DGD 0.084 open.BTC 5.93%  open.STEEM 7.253 open.BTC 120.73%  open.LISK 0.375 open.BTC 0.00%  BTSR (BTSR) 39.71k BTS 0.00%  OBITS 218.38k BTS -0.10%  bitUSD 319.43k BTS -5.41%  bitCNY 2.38M BTS -9.01%  bitGOLD 122.16k BTS -2.73%  New EUR Tether (open.EURT) 0.000 open.BTC 0.00%  New USD Tether (open.USDT) 0.000 open.BTC 0.00%
